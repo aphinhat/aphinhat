@@ -13,19 +13,19 @@ cl.login(qr=True)
 cl.loginResult()
 
 #ki = LINETCR.LINE()
-#ki.login(token="EnhiMInqpzKwtLQJTCz8.Q6h9350ILwptnMZB3pA4ca.OnZ3NKKqRZBzfkNjQkCwFtVUoUwvo3d1uv8GQnl0/q8=")
+#ki.login(token="=")
 #ki.loginResult()
 
 #kk = LINETCR.LINE()
-#kk.login(token="ElUSGFUMaZTMbRmbv8dc.GeBvu6aiiktEKuWvEKqxNa.+crtKcUvTuk3x7VlS3Ew9OXhGH3p0OL3N8gCRKgHOxo=")
+#kk.login(token="")
 #kk.loginResult()  
 
 #ks = LINETCR.LINE() 
-#ks.login(token="EnQxY6X11fAOe3jsRQP9.TELa1BgSPFk6qMa3xZv+/q.X/hiUjBCYI9Jgok9zGsuQIiO78dLJX2QuZAvw/6OvSM=")
+#ks.login(token="")
 #ks.loginResult()  
 
 #ka = LINETCR.LINE() 
-#ka.login(token="EnvqQio1OvQJT7OiYV5a.ZVwEpsWgXsmJFd7iEHj9IG.E5vfRE54Uk69f9j/69d6jitWGpZDLQzx/dd7nksIkXk=")
+#ka.login(token="")
 #ka.loginResult() 
 
 #k1 = ASUL.LINE()
